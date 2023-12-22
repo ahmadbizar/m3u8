@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+##EXTINF:65535,
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://013tv.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/100
+##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/100
+###http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/100
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=110765&extension=ts&play_token=ShZo4CwxoF
+##http://zalhdplus.com/play/live.php?mac=00:1a:79:43:53:5e&stream=544447&extension=ts&play_token=iHTymVDeWj
