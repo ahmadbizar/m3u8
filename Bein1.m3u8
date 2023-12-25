@@ -2,7 +2,6 @@
 #EXT-X-TARGETDURATION:65535
 #EXT-X-VERSION:2
 #EXTINF:65535,
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 http://line.ottcdn.net/play/live.php?mac=00:1a:79:d2:c2:85&stream=958682&extension=ts&play_token=gRiQcsbt2T
 
 ##-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0711654,RESOLUTION=480x360,FRAME-RATE=25.000,AUDIO="audio1"
