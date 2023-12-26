@@ -4,9 +4,9 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2140692,AVERAGE-BANDWIDTH=1831069,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
 https://ctrl.laotv.la/live/DongsenForeignMovie/Stream(01)/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-https://ctrl.laotv.la/live/DongsenForeignMovie/Stream(02)/index.m3u8
+#https://ctrl.laotv.la/live/DongsenForeignMovie/Stream(02)/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-https://ctrl.laotv.la/live/DongsenForeignMovie/Stream(03)/index.m3u8
+#https://ctrl.laotv.la/live/DongsenForeignMovie/Stream(03)/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2816532,AVERAGE-BANDWIDTH=2394269,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
 #https://ctrl.laotv.la/live/DongsenForeignMovie/Stream(04)/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1802772,AVERAGE-BANDWIDTH=1549469,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
