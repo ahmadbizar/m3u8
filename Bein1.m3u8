@@ -1,10 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
-http://line.ottcdn.net/play/live.php?mac=00:1a:79:d2:c2:85&stream=958682&extension=ts&play_token=gRiQcsbt2T
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://zalhdplus.com/play/live.php?mac=00:1a:79:43:53:5e&stream=556125&extension=ts&play_token=x1gJkQ2DN3
 
-##-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0711654,RESOLUTION=480x360,FRAME-RATE=25.000,AUDIO="audio1"
-##http://210.210.155.37/dr9445/h/h02/01.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1731654,RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO="audio1"
-##http://210.210.155.37/dr9445/h/h02/02.m3u8
+##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=161934&extension=m3u8&play_token=xdbt7BgLik
+##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=41393&extension=m3u8&play_token
+##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=41393&extension=m3u8&play_token=msUKooUfNl
