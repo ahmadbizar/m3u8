@@ -3,4 +3,4 @@
 #EXT-X-VERSION:2
 #EXTINF:65535,
 http://iptvtree.net:8080/2d124d42/c83c970c4b/298526|user-agent=okhttp/4.10.0?network_id=1545
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8|user-agent=okhttp/4.10.0?network_id=1545
+#https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8|user-agent=okhttp/4.10.0?network_id=1545
