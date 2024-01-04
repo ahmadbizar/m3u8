@@ -3,7 +3,7 @@
 #EXT-X-VERSION:2
 #EXTINF:65535,
 http://iptvtree.net:8080/2d124d42/c83c970c4b/197972
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683171&extension=ts&play_token=GVZS088tcf
+##http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=238261&extension=ts&play_token=CkeSaQhJqg?network_id=1545
 
 ##EXTM3U
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
