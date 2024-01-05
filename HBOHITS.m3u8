@@ -1,8 +1,10 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
+#EXT-X-VERSION:3
 #EXTINF:65535,
 http://iptvtree.net:8080/2d124d42/c83c970c4b/196480
+##http://goldiptv.pro/play/live.php?mac=00:1a:79:bc:fa:ad&stream=828066&extension=ts&play_token=vxPUVEKrpq
+##http://alibaabahateyou7.ddns.net:80/c/c5:48:95
 
 ##EXTM3U
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
