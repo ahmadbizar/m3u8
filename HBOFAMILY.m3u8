@@ -3,8 +3,6 @@
 #EXT-X-VERSION:2
 #EXTINF:65535,
 http://iptvtree.net:8080/2d124d42/c83c970c4b/197055
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
 
 ##EXTM3U
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
