@@ -1,8 +1,14 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=1294772&extension=ts&play_token=eu6QLm2MWf
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:200
+#EXTINF:65535,
+http://iptvtree.net:8080/2d124d42/c83c970c4b/100
 
-##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=161934&extension=m3u8&play_token=xdbt7BgLik
-##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=41393&extension=m3u8&play_token
-##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=41393&extension=m3u8&play_token=msUKooUfNl
+##EXTM3U
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/02.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/01.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/03.m3u8
+
