@@ -1,15 +1,15 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:3
-#EXTINF:65535,
-http://iptvtree.net:8080/2d124d42/c83c970c4b/298504
-##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298504
-##https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+http://210.210.155.37/uq2663/h/h201/index1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+http://210.210.155.37/uq2663/h/h201/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+http://210.210.155.37/uq2663/h/h201/index2.m3u8
 
-##EXTM3U
+
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/02.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-##http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/01.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/01.m3u8
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u8
