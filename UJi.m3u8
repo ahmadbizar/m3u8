@@ -1,4 +1,14 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706179563/ei/i-exZdjyNNOY4t4PrOyNyA4/ip/36.71.84.248/id/AKQmj8YHZ9c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9fyl3PpQQYXMvWeJnAke0UIlvbDWhClFFnHVdxMwuiin7JYgd4e2FhCcPN95Cog/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIG9oNgMt7PgKrVMcpsNFqcS53QExgsyhuQw1SkxvG3cAiAwEJyv1gOyLze3PYJo4OVRxarIaSRtYWb8TVwmOu2drA%3D%3D/file/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
+
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/01.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u8
