@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-https://live.kwikmotion.com/ksasports1live/ksasports1.smil/ksasports1publish/ksasports1_480p/hdntl=exp=1706635500~acl=%2fksasports1live%2fksasports1.smil%2f*~data=hdntl~hmac=c25ec7dd0e4ff9dabc396fc9cfa649d8b523af4106c7ec873be94ff5cfe82db5/chunks_dvr.m3u8?hdnts=exp=1706549102~acl=/ksasports1live/ksasports1.smil/*~hmac=43d3b661849a79d49f40992d71ad3435930f70c95fa85d223f4d7f5a7b51079e
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/2142297/playlist.m3u8?terminate=false&sid=62f4&deviceDNT=0&deviceModel=0&deviceVersion=0&embedPartner=stitcher-ipv4.pluto.tv&serverSideAds=true&deviceId=0&appVersion=0&deviceType=0&deviceMake=0&already_redirected=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-https://live.kwikmotion.com/ksasports1live/ksasports1.smil/ksasports1publish/ksasports1_360p/hdntl=exp=1706635500~acl=%2fksasports1live%2fksasports1.smil%2f*~data=hdntl~hmac=c25ec7dd0e4ff9dabc396fc9cfa649d8b523af4106c7ec873be94ff5cfe82db5/chunks_dvr.m3u8?hdnts=exp=1706549102~acl=/ksasports1live/ksasports1.smil/*~hmac=43d3b661849a79d49f40992d71ad3435930f70c95fa85d223f4d7f5a7b51079e
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/1539795/playlist.m3u8?terminate=false&sid=62f4&deviceDNT=0&deviceModel=0&deviceVersion=0&embedPartner=stitcher-ipv4.pluto.tv&serverSideAds=true&deviceId=0&appVersion=0&deviceType=0&deviceMake=0&already_redirected=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-https://live.kwikmotion.com/ksasports1live/ksasports1.smil/ksasports1publish/ksasports1_source/hdntl=exp=1706635500~acl=%2fksasports1live%2fksasports1.smil%2f*~data=hdntl~hmac=c25ec7dd0e4ff9dabc396fc9cfa649d8b523af4106c7ec873be94ff5cfe82db5/chunks_dvr.m3u8?hdnts=exp=1706549102~acl=/ksasports1live/ksasports1.smil/*~hmac=43d3b661849a79d49f40992d71ad3435930f70c95fa85d223f4d7f5a7b51079e
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/3063648/playlist.m3u8?terminate=false&sid=62f4&deviceDNT=0&deviceModel=0&deviceVersion=0&embedPartner=stitcher-ipv4.pluto.tv&serverSideAds=true&deviceId=0&appVersion=0&deviceType=0&deviceMake=0&already_redirected=true
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
 ##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
