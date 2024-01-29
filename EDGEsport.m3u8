@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-https://edgesport-rakuten-samsung.amagi.tv/playlist480p.m3u8
+https://edgesport-rakuten-samsung.amagi.tv/playlist720pl.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
 https://edgesport-rakuten-samsung.amagi.tv/playlist240p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
