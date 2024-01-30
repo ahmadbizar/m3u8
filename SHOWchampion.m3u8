@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/93d117a9-28df-4a5c-ada5-0d1b4b6581ce/1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/8ae8407f-806f-4d20-ac26-04c5c21c2e58/0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/93d117a9-28df-4a5c-ada5-0d1b4b6581ce/2.m3u8
+
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/01.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u8
