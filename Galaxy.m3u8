@@ -1,14 +1,22 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-https://streaming.indihometv.com/atm/HLS-10s/atv/atv-mp4a_96000=4.m3u8?encp=pWooVEEGN2y0r1Dg3onTwg&uid=&expp=1706683397&enc=eta2CmEb-k6L2B9eNzXvPA&exp=1706672897
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-https://streaming.indihometv.com/atm/HLS-10s/atv/atv-mp4a_96000=2.m3u8?encp=pWooVEEGN2y0r1Dg3onTwg&uid=&expp=1706683397&enc=eta2CmEb-k6L2B9eNzXvPA&exp=1706672897
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://streaming.indihometv.com/atm/HLS-10s/indikids/indikids-mp4a_96000=5.m3u8?encp=wRiiVXgXzW0xDjiaVFe4nQ&uid=&expp=1706686130&enc=8mCJCW7u7cYMBKMstG-Mig&exp=1706675630"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="https://streaming.indihometv.com/atm/HLS-10s/indikids/indikids-mp4a_64000=2.m3u8?encp=wRiiVXgXzW0xDjiaVFe4nQ&uid=&expp=1706686130&enc=8mCJCW7u7cYMBKMstG-Mig&exp=1706675630"
+
+# Variants
+#EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2913000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
+https://cdnbal1.indihometv.com/atm/HLS-10s/indikids/indikids-avc1_2500000=7.m3u8?encp=wRiiVXgXzW0xDjiaVFe4nQ&uid=&expp=1706686130
+#EXT-X-STREAM-INF:BANDWIDTH=2312000,AVERAGE-BANDWIDTH=2024000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
+https://cdnbal1.indihometv.com/atm/HLS-10s/indikids/indikids-avc1_1500000=6.m3u8?encp=wRiiVXgXzW0xDjiaVFe4nQ&uid=&expp=1706686130
 
 
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/01.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u8
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165105
+##http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165105
+##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165105
