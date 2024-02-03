@@ -2,7 +2,7 @@
 #EXT-X-TARGETDURATION:65535
 #EXT-X-VERSION:2
 #EXTINF:65535,
-http://iptvtree.net:8080/2d124d42/c83c970c4b/221948
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 ##EXTM3U
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
