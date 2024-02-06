@@ -2,5 +2,4 @@
 #EXT-X-TARGETDURATION:65535
 #EXT-X-VERSION:3
 #EXTINF:65535,
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526?enc=2fce1CTyvhraz4RFUJDkYg&uid=&exp=1706062246
