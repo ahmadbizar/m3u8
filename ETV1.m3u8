@@ -2,6 +2,7 @@
 #EXT-X-TARGETDURATION:65535
 #EXT-X-VERSION:3
 #EXTINF:65535,
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1764
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1764
-http://013tv.com:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/296245
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#http://013tv.com:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/296245
+#https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
