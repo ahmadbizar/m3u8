@@ -1,4 +1,21 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708540442/ei/uu3VZey_JZea4-EPzuCogAw/ip/36.71.80.163/id/DOOrIxw5xOw.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr3---sn-2uuxa3vh-ngbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9f4RXYBoGSDXCXAKyi4HDzmryukVvWrUYsijEn9zKqp_QNyp2Yl1V3cTESErZLA/vprv/1/playlist_type/DVR/initcwndbps/361250/mh/nm/mip/36.71.80.107/mm/44/mn/sn-2uuxa3vh-ngbz/ms/lva/mv/m/mvi/3/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708518506/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRgIhANEE3zMHEG4K9iDgELs0S2rshKa5F4BTb_jwoIlVZyn8AiEA7pKO1SO1na2T0WdYi4bvFVyo5YWV9I9_-ZbqJPlsph4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRAIgCRkIPecCARxHlDGFTtQ0AXlUGcGdH5Erwj5QbembepUCIAzD9A10SvSP5zoB0V9XS5r6e-3sxg7Axw6PzESECEvv/playlist/index.m3u8
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 "
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 "
+# Variants
+#EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2913000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2312000,AVERAGE-BANDWIDTH=2024000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+
+
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165105
+##http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165105
+##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165105
